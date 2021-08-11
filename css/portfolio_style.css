@@ -15,13 +15,19 @@
     text-align: center
 }
 #nav-bar{
-    padding: 0.2px;
+    padding: 0.1px;
     background: #5d7bff85;
     position: sticky;
     top: 0px;
     text-align: center;
     left: 300px
     width: 30%;
+}
+#contact-links{
+    letter-spacing: 5px;
+}
+#link-text{
+    padding-left: 100px;
 }
 .container{
     width: 80%;
@@ -47,6 +53,9 @@ nav a{
     text-decoration: none;
     font-family: 'Open Sans', monospace;
     font-size: 15px;
+}
+a{
+    color: #FF8D1E;
 }
 h3{
     letter-spacing: 5px;

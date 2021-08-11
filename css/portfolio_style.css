@@ -44,7 +44,7 @@
 }
 body{
     color: white;
-    font-family: open_sansregular, monospace;
+    font-family: 'open_sansregular', monospace;
     background: rgb(0, 0, 0);
     text-indent: 10px;
     margin: 0px;

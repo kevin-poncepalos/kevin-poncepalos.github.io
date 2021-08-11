@@ -1,33 +1,33 @@
 @import url('https://fonts.googleapis.com/css2?family=Metal+Mania&family=Open+Sans:wght@300&display=swap');
 
 #name-bar{
-    padding: 10px;
-    margin-top: 0px;
+    padding: 0.625rem;
+    margin-top: 0rem;
     background: dodgerblue;
 }
 #name-text{
     color: #ffffffec;
     font-family:'Metal Mania', cursive;
-    text-shadow: 1px 1px rgb(0, 0, 0);
-    letter-spacing: 5px;
-    font-size: 30px;
+    text-shadow: 0.063rem 0.063rem rgb(0, 0, 0);
+    letter-spacing: 0.313rem;
+    font-size: 1.875rem;
     text-decoration: none;
     text-align: center;
 }
 #nav-bar{
-    padding: 0.1px;
+    padding: 0.1rem;
     background: #5d7bff85;
     position: sticky;
-    top: 0px;
+    top: 0rem;
     text-align: center;
-    left: 300px;
+    left: 300rem;
     width: 100%;
 }
 #contact-links{
-    letter-spacing: 5px;
+    letter-spacing: 5rem;
 }
 #link-text{
-    padding-left: 100px;
+    padding-left: 6.25rem;
 }
 .container{
     width: 80%;
@@ -37,28 +37,27 @@ body{
     color: white;
     font-family: 'Open Sans', monospace;
     background: url('https://kevin-poncepalos.github.io/images/background-4.jpg') black;
-    text-indent: 10px;
-    margin: 0px;
+    margin: 0rem;
 }
 nav ul{
-    margin: 5px;
-    padding: 5px 0px 5px 30px;
+    margin: 0.3125rem;
+    padding: 0.3125rem 0rem 0.3125rem 1.875rem;
 }
 nav li{
     display: inline;
-    margin-right: 20px;
+    margin-right: 1.25rem;
 }
 nav a{
     color: #ffffff;
     text-decoration: none;
     font-family: 'Open Sans', monospace;
-    font-size: 15px;
+    font-size: 0.9375rem;
 }
 a{
     color: #FF8D1E;
 }
 h3{
-    letter-spacing: 5px;
+    letter-spacing: 0.3125rem;
     width: 90%;
     margin: 0 auto;
     color: #FF8D1E
@@ -70,11 +69,11 @@ p{
 }
 footer{
     color:rgb(0, 0, 0);
-    text-shadow: 0.5px 0.5px rgb(0, 0, 0);
-    padding: 10px;
-    margin-top: 0px;
+    text-shadow: 0.03125rem 0.03125rem rgb(0, 0, 0);
+    padding: 0.625rem;
+    margin-top: 0rem;
     background: dodgerblue;
     text-align: center;
-    font-size: 12px;
+    font-size: 0.75rem;
     box-shadow: 0 50vh 0 50vh black;
 }

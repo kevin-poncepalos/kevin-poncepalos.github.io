@@ -39,7 +39,7 @@ nav ul{
     padding: 5px 0px 5px 30px;
 }
 nav li{
-    display: inline-block;
+    display: inline;
     margin-right: 20px;
 }
 nav a{

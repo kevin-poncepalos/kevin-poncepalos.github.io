@@ -1,3 +1,4 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Metal+Mania&family=Open+Sans:wght@300&display=swap');
 
 #name-bar{
@@ -15,11 +16,13 @@
     text-align: center
 }
 #nav-bar{
-    padding: 10px;
-    position: fixed;
+    padding: 0.2px;
+    background: #5d7bff85;
+    position: sticky;
     top: 0px;
-    left: 900px;
-    width: 100%;
+    text-align: center;
+    left: 300px
+    width: 30%;
 }
 .container{
     width: 80%;
@@ -37,13 +40,14 @@ nav ul{
     padding: 5px 0px 5px 30px;
 }
 nav li{
-    display: inline;
+    display: inline-block;
     margin-right: 20px;
 }
-a{
-    color: #FF8D1E;
+nav a{
+    color: #ffffff;
     text-decoration: none;
-    text-shadow: 1px 0 10px rgb(0, 0, 0);
+    font-family: 'Open Sans', monospace;
+    font-size: 15px;
 }
 h3{
     letter-spacing: 5px;

@@ -1,20 +1,6 @@
 <!-- CSS for portfolio simple website -->
-<!-- 
-@font-face {
-    font-family: 'metal_maniaregular';
-    src: url('https://kevin-poncepalos.github.io/css/fonts/metalmania-regular-webfont.woff2') format('woff2'),
-         url('https://kevin-poncepalos.github.io/css/fonts/metalmania-regular-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-@font-face {
-    font-family: 'open_sansregular';
-    src: url('https://kevin-poncepalos.github.io/css/fonts/opensans-regular-webfont.woff2') format('woff2'),
-         url('https://kevin-poncepalos.github.io/css/fonts/opensans-regular-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
--->
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&family=Open+Sans:wght@300&display=swap');
 
 #name-bar{
     padding: 10px;

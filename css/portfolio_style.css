@@ -28,9 +28,19 @@
 }
 #link-text{
     padding-left: 6.25rem;
+    text-align: center;
 }
-#snake-text{
-    padding-left: 4rem;
+#Projects{
+    letter-spacing: 0.7rem;
+    text-align: center;
+}
+#About{
+    letter-spacing: 0.4rem;
+    text-align: center
+}
+#Contact{
+    letter-spacing: 0.7rem;
+    text-align: center;
 }
 .container{
     width: 80%;
@@ -39,12 +49,12 @@
 body{
     color: white;
     font-family: 'Open Sans', monospace;
-    background: url('file:///W:/0Documents/2 Coding/WEBAGE/portfolio/images/Coding-Images/background-4.jpg') black;
+    background: url('https://kevin-poncepalos.github.io/images/background-4.jpg') black;
     margin: 0rem;
 }
 nav ul{
     margin: 0.3125rem;
-    padding: 0.3125rem 0rem 0.3125rem 1.875rem;
+    padding: 0.3125rem 0rem 0.3125rem 1.875rem;
 }
 nav li{
     display: inline;
@@ -60,10 +70,10 @@ a{
     color: #FF8D1E;
 }
 h3{
-    letter-spacing: 0.3125rem;
+    letter-spacing: 0.4rem;
     width: 90%;
     margin: 0 auto;
-    color: #FF8D1E
+    color: white
 }
 p{
     width: 80%;
@@ -75,6 +85,7 @@ footer{
     margin-top: 0rem;
     background: dodgerblue;
     box-shadow: 0 50vh 0 50vh black;
+    text-align: center;
 }
 footer a{
     font-size: 0.75rem;

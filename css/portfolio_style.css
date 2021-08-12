@@ -19,9 +19,11 @@
     background: #5d7bff85;
     position: sticky;
     top: 0rem;
+    right: 0rem;
     text-align: center;
     left: 300rem;
     width: 100%;
+    align-self: flex-start;
 }
 #contact-links{
     letter-spacing: 5rem;

@@ -17,13 +17,12 @@
 #nav-bar{
     padding: 0.1rem;
     background: #5d7bff85;
-    position: relative;
+    position: sticky;
     top: 0rem;
     right: 0rem;
-    text-align: center;
     left: 0rem;
+    text-align: center;
     width: 100%;
-    align-self: flex-start;
 }
 #contact-links{
     letter-spacing: 5rem;
@@ -50,7 +49,7 @@ nav li{
     margin-right: 1.25rem;
 }
 nav a{
-    color: #ffffff;
+    color: white;
     text-decoration: none;
     font-family: 'Open Sans', monospace;
     font-size: 0.9375rem;

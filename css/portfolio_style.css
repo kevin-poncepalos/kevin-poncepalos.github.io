@@ -51,7 +51,7 @@
 body{
     color: white;
     font-family: 'Open Sans', monospace;
-    background: url('https://kevin-poncepalos.github.io/images/background-4.jpg') black;
+    background: url('https://kevin-poncepalos.github.io/images/background-4.jpg') black; /*https://kevin-poncepalos.github.io/images/background-4.jpg*/
     margin: 0rem;
 }
 nav ul{

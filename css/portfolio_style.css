@@ -26,7 +26,7 @@
 #contact-links{
     letter-spacing: 5rem;
 }
-#link-text{
+.list-format{
     padding-left: 6.25rem;
     text-align: center;
     color: white;

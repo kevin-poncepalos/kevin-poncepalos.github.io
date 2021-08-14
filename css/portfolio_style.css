@@ -26,15 +26,6 @@
 #contact-links{
     letter-spacing: 5rem;
 }
-.list-format{
-    padding-left: 6.25rem;
-    text-align: center;
-    color: white;
-}
-.nodec{
-    text-decoration: none;
-    list-style-type: none;
-}
 #Projects{
     letter-spacing: 0.7rem;
 }
@@ -47,6 +38,15 @@
 .container{
     width: 80%;
     margin: 0 auto;
+}
+.list-format{
+    padding-left: 6.25rem;
+    text-align: center;
+    color: white;
+}
+.nodec{
+    text-decoration: none;
+    list-style-type: none;
 }
 body{
     color: white;

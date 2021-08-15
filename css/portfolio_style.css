@@ -34,6 +34,9 @@
 #Contact{
     letter-spacing: 0.7rem;
 }
+#validator_box{
+    margin: 1rem 4rem 1rem;
+}
 body{
     color: white;
     font-family: 'Open Sans', monospace;

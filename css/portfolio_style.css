@@ -54,6 +54,9 @@ body{
     background: url('https://kevin-poncepalos.github.io/images/background-4.jpg') black; /*https://kevin-poncepalos.github.io/images/background-4.jpg*/
     margin: 0rem;
 }
+li{
+    text-decoration: none;
+}
 nav ul{
     margin: 0.3125rem;
     padding: 0.3125rem 0rem 0.3125rem 1.875rem;

@@ -26,12 +26,15 @@
 }
 #Projects{
     letter-spacing: 0.7rem;
+    text-align: center;
 }
 #About{
     letter-spacing: 0.4rem;
+    text-align: center;
 }
 #Contact{
     letter-spacing: 0.7rem;
+    text-align: center;
 }
 #validator_box{
     margin: 1rem 4rem 1rem;
@@ -46,12 +49,12 @@ body{
     color: white;
     text-align: center;
     text-decoration: none;
-    margin: 0.5rem 2rem 0rem 2rem; 
+    margin: 0.5rem 0rem 0rem 0rem; 
 }
 .project-text{
     color: white;
     text-align: center;
-    margin: 0.5rem 7rem 0rem 1.5rem;
+    margin: 0rem 0rem 1.5rem 0rem;  /*margin of top, right, bottom, left*/
 }
 li{
     list-style-type: none;
@@ -59,7 +62,7 @@ li{
 }
 nav ul{
     margin: 0.3125rem;
-    padding: 0.3125rem 0rem 0.3125rem 1.875rem;
+    padding: 0.3125rem 0rem 0.3125rem 0rem;
 }
 nav li{
     display: inline;
@@ -78,9 +81,12 @@ a{
     color: #FF8D1E;
 }
 h1{
-    width: 90%;
-    margin: 0 auto;
+    width: 100%;
+    margin: 0 auto; /* top, right, bottom, left*/
     color: #FF8D1E;
+}
+ul{
+    margin: 0rem 3.225rem 0rem 0rem;
 }
 p{
     width: 60%;
